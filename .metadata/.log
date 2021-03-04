@@ -1,0 +1,1478 @@
+!SESSION 2021-01-27 20:40:48.367 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_271
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data C:\Automation Selenium -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-01-27 20:41:43.333
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Anjali'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-01-28 07:56:55.978 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_271
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-01-28 07:57:52.125
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Anjali'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-01-28 08:04:02.802
+!MESSAGE No repository found at http://beust.com/eclipse.
+
+!ENTRY org.eclipse.jdt.debug 2 0 2021-01-28 08:27:33.535
+!MESSAGE Unable to find location of java.lang.Thread.setName() in debuggee JVM, for type java.lang.Thread
+!SESSION 2021-01-28 20:50:24.577 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_271
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-01-28 20:50:45.177
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-01-28 20:51:35.321
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Anjali'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-01-28 21:21:05.250
+!MESSAGE No repository found at http://beust.com/eclipse.
+
+!ENTRY org.eclipse.jdt.debug 2 0 2021-01-28 21:53:08.434
+!MESSAGE Unable to find location of java.lang.Thread.setName() in debuggee JVM, for type java.lang.Thread
+
+!ENTRY org.eclipse.jdt.debug 2 0 2021-01-28 22:27:53.524
+!MESSAGE Unable to find location of java.lang.Thread.setName() in debuggee JVM, for type java.lang.Thread
+!SESSION 2021-01-29 19:16:46.475 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_271
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-01-29 19:17:23.694
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Anjali'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-01-29 19:30:44.540
+!MESSAGE No repository found at http://beust.com/eclipse.
+!SESSION 2021-02-01 11:08:41.108 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_271
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-02-01 11:09:33.071
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Anjali'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-02-01 11:19:53.680
+!MESSAGE No repository found at http://beust.com/eclipse.
+
+!ENTRY org.eclipse.jdt.debug 2 0 2021-02-03 21:22:19.838
+!MESSAGE Unable to find location of java.lang.Thread.setName() in debuggee JVM, for type java.lang.Thread
+
+!ENTRY org.eclipse.jdt.debug 2 0 2021-02-03 21:30:40.955
+!MESSAGE Unable to find location of java.lang.Thread.setName() in debuggee JVM, for type java.lang.Thread
+
+!ENTRY org.eclipse.jdt.debug 2 0 2021-02-03 22:06:08.216
+!MESSAGE Unable to find location of java.lang.Thread.setName() in debuggee JVM, for type java.lang.Thread
+
+!ENTRY org.eclipse.jdt.debug 2 0 2021-02-03 22:09:54.779
+!MESSAGE Unable to find location of java.lang.Thread.setName() in debuggee JVM, for type java.lang.Thread
+
+!ENTRY org.eclipse.jdt.debug 2 0 2021-02-03 22:13:27.622
+!MESSAGE Unable to find location of java.lang.Thread.setName() in debuggee JVM, for type java.lang.Thread
+
+!ENTRY org.eclipse.jdt.debug 2 0 2021-02-03 22:15:02.617
+!MESSAGE Unable to find location of java.lang.Thread.setName() in debuggee JVM, for type java.lang.Thread
+
+!ENTRY org.eclipse.jdt.debug 2 0 2021-02-03 22:17:11.788
+!MESSAGE Unable to find location of java.lang.Thread.setName() in debuggee JVM, for type java.lang.Thread
+
+!ENTRY org.eclipse.jdt.debug 2 0 2021-02-03 22:17:45.274
+!MESSAGE Unable to find location of java.lang.Thread.setName() in debuggee JVM, for type java.lang.Thread
+
+!ENTRY org.eclipse.jdt.debug 2 0 2021-02-03 22:19:42.448
+!MESSAGE Unable to find location of java.lang.Thread.setName() in debuggee JVM, for type java.lang.Thread
+
+!ENTRY org.eclipse.jdt.debug 2 0 2021-02-03 22:20:49.151
+!MESSAGE Unable to find location of java.lang.Thread.setName() in debuggee JVM, for type java.lang.Thread
+
+!ENTRY org.eclipse.jdt.debug 2 0 2021-02-03 22:21:58.496
+!MESSAGE Unable to find location of java.lang.Thread.setName() in debuggee JVM, for type java.lang.Thread
+
+!ENTRY org.eclipse.jdt.debug 2 0 2021-02-03 22:23:46.593
+!MESSAGE Unable to find location of java.lang.Thread.setName() in debuggee JVM, for type java.lang.Thread
+
+!ENTRY org.eclipse.ui 4 0 2021-02-05 09:38:20.339
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.ui.internal.NavigationHistory.getDisplay(NavigationHistory.java:179)
+	at org.eclipse.ui.internal.NavigationHistory.markEditor(NavigationHistory.java:196)
+	at org.eclipse.ui.internal.WorkbenchPage.updateActiveEditorSources(WorkbenchPage.java:433)
+	at org.eclipse.ui.internal.WorkbenchPage.firePartClosed(WorkbenchPage.java:5286)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.lambda$0(CompatibilityPart.java:109)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.lambda$0(UIEventHandler.java:38)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:236)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:147)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4580)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:219)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:233)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:132)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.UIElementImpl.setWidget(UIElementImpl.java:265)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.unbindWidget(SWTPartRenderer.java:150)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.lambda$0(SWTPartRenderer.java:139)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:127)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4131)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1055)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1060)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:812)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:932)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:815)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:932)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:815)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:932)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:815)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:932)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:815)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:932)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:815)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:932)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:815)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:932)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:815)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:932)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:815)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:932)
+	at org.eclipse.swt.widgets.Canvas.releaseChildren(Canvas.java:174)
+	at org.eclipse.swt.widgets.Decorations.releaseChildren(Decorations.java:731)
+	at org.eclipse.swt.widgets.Shell.releaseChildren(Shell.java:1353)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:815)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:429)
+	at org.eclipse.swt.widgets.Decorations.dispose(Decorations.java:408)
+	at org.eclipse.swt.widgets.Shell.dispose(Shell.java:742)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3598)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:300)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3129)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(Native Method)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:508)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4867)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:348)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1502)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2153)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4778)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3542)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:822)
+	at org.eclipse.jface.window.Window.open(Window.java:798)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchWindowAdvisor.promptOnExit(IDEWorkbenchWindowAdvisor.java:227)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor.lambda$0(IDEWorkbenchAdvisor.java:164)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4131)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4123)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3142)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(Native Method)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:508)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4867)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:348)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1502)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2153)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4770)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3542)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:563)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:151)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:595)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1501)
+!SESSION 2021-02-05 20:18:27.944 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_271
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-02-05 20:23:53.542
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-02-05 20:24:47.947
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Anjali'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-02-05 20:40:15.289
+!MESSAGE No repository found at http://beust.com/eclipse.
+!SESSION 2021-02-07 14:59:11.226 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_271
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-02-07 15:11:50.696
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Anjali'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-02-07 15:52:33.424
+!MESSAGE No repository found at http://beust.com/eclipse.
+!SESSION 2021-02-08 19:02:28.217 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_271
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-02-08 19:03:41.902
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Anjali'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-02-08 19:33:01.867
+!MESSAGE No repository found at http://beust.com/eclipse.
+!SESSION 2021-02-10 20:45:07.929 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_271
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-02-10 20:47:05.209
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Anjali'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-02-10 21:20:21.736
+!MESSAGE No repository found at http://beust.com/eclipse.
+
+!ENTRY org.eclipse.ui 4 0 2021-02-12 00:08:10.115
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.ui.internal.NavigationHistory.getDisplay(NavigationHistory.java:179)
+	at org.eclipse.ui.internal.NavigationHistory.markEditor(NavigationHistory.java:196)
+	at org.eclipse.ui.internal.WorkbenchPage.updateActiveEditorSources(WorkbenchPage.java:433)
+	at org.eclipse.ui.internal.WorkbenchPage.firePartClosed(WorkbenchPage.java:5286)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.lambda$0(CompatibilityPart.java:109)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.lambda$0(UIEventHandler.java:38)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:236)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:147)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4580)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:219)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:233)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:132)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.UIElementImpl.setWidget(UIElementImpl.java:265)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.unbindWidget(SWTPartRenderer.java:150)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.lambda$0(SWTPartRenderer.java:139)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:127)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4131)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1055)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1060)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:812)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:932)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:815)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:932)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:815)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:932)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:815)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:932)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:815)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:932)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:815)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:932)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:815)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:932)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:815)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:932)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:815)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:932)
+	at org.eclipse.swt.widgets.Canvas.releaseChildren(Canvas.java:174)
+	at org.eclipse.swt.widgets.Decorations.releaseChildren(Decorations.java:731)
+	at org.eclipse.swt.widgets.Shell.releaseChildren(Shell.java:1353)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:815)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:429)
+	at org.eclipse.swt.widgets.Decorations.dispose(Decorations.java:408)
+	at org.eclipse.swt.widgets.Shell.dispose(Shell.java:742)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3598)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:300)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3129)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(Native Method)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:508)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4867)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:348)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1502)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2153)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4778)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3542)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:822)
+	at org.eclipse.jface.window.Window.open(Window.java:798)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchWindowAdvisor.promptOnExit(IDEWorkbenchWindowAdvisor.java:227)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor.lambda$0(IDEWorkbenchAdvisor.java:164)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4131)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4123)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3142)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(Native Method)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:508)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4867)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:348)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1502)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2153)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4778)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3542)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:563)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:151)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:595)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1501)
+!SESSION 2021-02-15 20:35:55.170 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_271
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-02-15 20:36:10.921
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-02-15 20:36:38.606
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Anjali'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-02-15 20:45:03.730
+!MESSAGE No repository found at http://beust.com/eclipse.
+!SESSION 2021-02-21 19:46:12.310 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_271
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-02-21 19:46:32.455
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-02-21 19:46:56.201
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Anjali'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-02-21 20:35:31.800
+!MESSAGE No repository found at http://beust.com/eclipse.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2021-02-22 22:02:28.686
+!MESSAGE Unexpected interrupt while waiting on ECF browse request
+!STACK 0
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at org.eclipse.core.internal.jobs.Semaphore.acquire(Semaphore.java:42)
+	at org.eclipse.core.internal.jobs.JobManager.join(JobManager.java:897)
+	at org.eclipse.core.internal.jobs.InternalJob.join(InternalJob.java:344)
+	at org.eclipse.core.runtime.jobs.Job.join(Job.java:544)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.waitOnSelf(FileInfoReader.java:74)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:110)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:233)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.delegateGetLastModified(CachingTransport.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.getLastModified(CachingTransport.java:345)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:191)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.getLocalFile(SimpleMetadataRepositoryFactory.java:69)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:89)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:770)
+	at sun.reflect.GeneratedMethodAccessor41.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:409)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:201)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:476)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:168)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:124)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:770)
+	at sun.reflect.GeneratedMethodAccessor41.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:409)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:201)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:476)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.epp.internal.mpc.ui.catalog.MarketplaceCatalog.lambda$11(MarketplaceCatalog.java:326)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2021-02-22 22:02:28.759
+!MESSAGE Unexpected interrupt while waiting on ECF browse request
+!STACK 0
+java.lang.InterruptedException
+	at org.eclipse.core.internal.jobs.Semaphore.acquire(Semaphore.java:32)
+	at org.eclipse.core.internal.jobs.JobManager.join(JobManager.java:897)
+	at org.eclipse.core.internal.jobs.InternalJob.join(InternalJob.java:344)
+	at org.eclipse.core.runtime.jobs.Job.join(Job.java:544)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.waitOnSelf(FileInfoReader.java:74)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:110)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:233)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.delegateGetLastModified(CachingTransport.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.getLastModified(CachingTransport.java:345)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:191)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.getLocalFile(SimpleMetadataRepositoryFactory.java:69)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:89)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:770)
+	at sun.reflect.GeneratedMethodAccessor41.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:409)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:201)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:476)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:168)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:124)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:770)
+	at sun.reflect.GeneratedMethodAccessor41.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:409)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:201)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:476)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.epp.internal.mpc.ui.catalog.MarketplaceCatalog.lambda$11(MarketplaceCatalog.java:326)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+!SESSION 2021-02-22 22:03:31.009 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_271
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-02-22 22:04:12.053
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Anjali'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2021-02-22 22:07:44.295
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://beust.com/eclipse.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:398)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.fail(CachingRepositoryManager.java:353)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:244)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:476)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.doLoad(LoadMetadataRepositoryJob.java:121)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.runModal(LoadMetadataRepositoryJob.java:106)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$1.runModal(PreloadingRepositoryHandler.java:84)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:190)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2021-02-22 22:07:44.300
+!MESSAGE No repository found at http://beust.com/eclipse.
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2021-02-22 22:16:51.014
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: Unable to read repository at https://dl.bintray.com/testng-team/testng-eclipse-release/6.9.13/compositeArtifacts.xml.
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:246)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.getLocalFile(CompositeArtifactRepositoryFactory.java:71)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:95)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:81)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:770)
+	at sun.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:409)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:201)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:543)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:119)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:114)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.load(CompositeArtifactRepository.java:496)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:177)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.<init>(CompositeArtifactRepository.java:99)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:120)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:81)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:770)
+	at sun.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:409)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:201)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:543)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:119)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:114)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedRepository(ProvisioningContext.java:194)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedArtifactRepositories(ProvisioningContext.java:168)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getArtifactRepositories(ProvisioningContext.java:153)
+	at org.eclipse.equinox.internal.p2.engine.phases.Sizing.completePhase(Sizing.java:98)
+	at org.eclipse.equinox.internal.p2.engine.Phase.postPerform(Phase.java:255)
+	at org.eclipse.equinox.internal.p2.engine.Phase.perform(Phase.java:105)
+	at org.eclipse.equinox.internal.p2.engine.PhaseSet.perform(PhaseSet.java:50)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:80)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:48)
+	at org.eclipse.equinox.internal.p2.ui.ProvUI.getSize(ProvUI.java:242)
+	at org.eclipse.equinox.internal.p2.ui.dialogs.SizeComputingWizardPage$1.run(SizeComputingWizardPage.java:67)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: javax.net.ssl.SSLException: java.net.SocketException: Socket Closed
+	at sun.security.ssl.Alert.createSSLException(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.SSLTransport.decode(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at org.apache.http.conn.ssl.SSLSocketFactory.createLayeredSocket(SSLSocketFactory.java:573)
+	at org.apache.http.conn.ssl.SSLSocketFactory.connectSocket(SSLSocketFactory.java:557)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.SNIAwareHttpClient$1.connectSocket(SNIAwareHttpClient.java:64)
+	at org.apache.http.conn.ssl.SSLSocketFactory.connectSocket(SSLSocketFactory.java:414)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:180)
+	at org.apache.http.impl.conn.ManagedClientConnectionImpl.open(ManagedClientConnectionImpl.java:326)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:610)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:445)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:263)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	... 1 more
+	Suppressed: java.net.SocketException: Socket closed
+		at java.net.SocketOutputStream.socketWrite(Unknown Source)
+		at java.net.SocketOutputStream.write(Unknown Source)
+		at sun.security.ssl.SSLSocketOutputRecord.encodeAlert(Unknown Source)
+		... 21 more
+Caused by: java.net.SocketException: Socket Closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+	at sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+	at sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+	... 18 more
+!SUBENTRY 1 org.eclipse.equinox.p2.transport.ecf 4 1002 2021-02-22 22:16:51.020
+!MESSAGE Unable to read repository at https://dl.bintray.com/testng-team/testng-eclipse-release/6.9.13/compositeArtifacts.xml.
+!STACK 0
+javax.net.ssl.SSLException: java.net.SocketException: Socket Closed
+	at sun.security.ssl.Alert.createSSLException(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.SSLTransport.decode(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at org.apache.http.conn.ssl.SSLSocketFactory.createLayeredSocket(SSLSocketFactory.java:573)
+	at org.apache.http.conn.ssl.SSLSocketFactory.connectSocket(SSLSocketFactory.java:557)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.SNIAwareHttpClient$1.connectSocket(SNIAwareHttpClient.java:64)
+	at org.apache.http.conn.ssl.SSLSocketFactory.connectSocket(SSLSocketFactory.java:414)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:180)
+	at org.apache.http.impl.conn.ManagedClientConnectionImpl.open(ManagedClientConnectionImpl.java:326)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:610)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:445)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:263)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+	Suppressed: java.net.SocketException: Socket closed
+		at java.net.SocketOutputStream.socketWrite(Unknown Source)
+		at java.net.SocketOutputStream.write(Unknown Source)
+		at sun.security.ssl.SSLSocketOutputRecord.encodeAlert(Unknown Source)
+		... 21 more
+Caused by: java.net.SocketException: Socket Closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.security.ssl.SSLSocketInputRecord.read(Unknown Source)
+	at sun.security.ssl.SSLSocketInputRecord.readHeader(Unknown Source)
+	at sun.security.ssl.SSLSocketInputRecord.decode(Unknown Source)
+	... 18 more
+
+!ENTRY org.eclipse.equinox.p2.engine 4 4 2021-02-22 22:17:34.577
+!MESSAGE An error occurred while collecting items to be installed
+!SUBENTRY 1 org.eclipse.equinox.p2.engine 4 0 2021-02-22 22:17:34.577
+!MESSAGE session context was:(profile=epp.package.java, phase=org.eclipse.equinox.internal.p2.engine.phases.Collect, operand=, action=).
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-02-22 22:17:34.577
+!MESSAGE No repository found containing: osgi.bundle,org.testng.eclipse,7.3.0.202008060412
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-02-22 22:17:34.578
+!MESSAGE No repository found containing: osgi.bundle,org.testng.eclipse.maven,7.3.0.202008060412
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-02-22 22:17:34.578
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.testng.eclipse,7.3.0.202008060412
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2021-02-22 22:17:34.578
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.testng.eclipse.maven.feature,7.3.0.202008060412
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2021-02-22 22:18:54.709
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://beust.com/eclipse.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:398)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.fail(CachingRepositoryManager.java:353)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:244)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:476)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.doLoad(LoadMetadataRepositoryJob.java:121)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.runModal(LoadMetadataRepositoryJob.java:106)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$1.runModal(PreloadingRepositoryHandler.java:84)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:190)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2021-02-22 22:18:54.710
+!MESSAGE No repository found at http://beust.com/eclipse.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2021-02-22 22:24:47.328
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2021-02-22 22:24:47.328
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-02-22 22:24:47.328
+!MESSAGE "TestNG" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2021-02-22 22:24:47.328
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.328
+!MESSAGE Software being installed: TestNG 7.3.0.202008060412 (org.testng.eclipse.feature.group 7.3.0.202008060412)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.328
+!MESSAGE Software currently installed: TestNG M2E (Maven) Integration (Optional) 6.14.3.201902250526 (org.testng.eclipse.maven.feature.feature.group 6.14.3.201902250526)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-02-22 22:24:47.328
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.328
+!MESSAGE TestNG 6.14.3.201902250526 (org.testng.eclipse.feature.jar 6.14.3.201902250526)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.328
+!MESSAGE TestNG 7.3.0.202008060412 (org.testng.eclipse.feature.jar 7.3.0.202008060412)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-02-22 22:24:47.328
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.328
+!MESSAGE From: TestNG 6.14.3.201902250526 (org.testng.eclipse.feature.group 6.14.3.201902250526)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.328
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.testng.eclipse.feature.jar [6.14.3.201902250526,6.14.3.201902250526]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-02-22 22:24:47.328
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.328
+!MESSAGE From: TestNG 7.3.0.202008060412 (org.testng.eclipse.feature.group 7.3.0.202008060412)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.328
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.testng.eclipse.feature.jar [7.3.0.202008060412,7.3.0.202008060412]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-02-22 22:24:47.328
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.328
+!MESSAGE From: TestNG M2E (Maven) Integration (Optional) 6.14.3.201902250526 (org.testng.eclipse.maven.feature.feature.group 6.14.3.201902250526)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.328
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.testng.eclipse.feature.group [6.14.3,7.0.0)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2021-02-22 22:24:47.368
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2021-02-22 22:24:47.368
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-02-22 22:24:47.368
+!MESSAGE "TestNG" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2021-02-22 22:24:47.368
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.368
+!MESSAGE Software being installed: TestNG 7.3.0.202008060412 (org.testng.eclipse.feature.group 7.3.0.202008060412)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.368
+!MESSAGE Software currently installed: TestNG M2E (Maven) Integration (Optional) 6.14.3.201902250526 (org.testng.eclipse.maven.feature.feature.group 6.14.3.201902250526)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-02-22 22:24:47.368
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.368
+!MESSAGE TestNG 6.14.3.201902250526 (org.testng.eclipse.feature.jar 6.14.3.201902250526)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.368
+!MESSAGE TestNG 7.3.0.202008060412 (org.testng.eclipse.feature.jar 7.3.0.202008060412)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-02-22 22:24:47.368
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.368
+!MESSAGE From: TestNG 6.14.3.201902250526 (org.testng.eclipse.feature.group 6.14.3.201902250526)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.368
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.testng.eclipse.feature.jar [6.14.3.201902250526,6.14.3.201902250526]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-02-22 22:24:47.368
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.368
+!MESSAGE From: TestNG 7.3.0.202008060412 (org.testng.eclipse.feature.group 7.3.0.202008060412)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.368
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.testng.eclipse.feature.jar [7.3.0.202008060412,7.3.0.202008060412]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-02-22 22:24:47.368
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.368
+!MESSAGE From: TestNG M2E (Maven) Integration (Optional) 6.14.3.201902250526 (org.testng.eclipse.maven.feature.feature.group 6.14.3.201902250526)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.368
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.testng.eclipse.feature.group [6.14.3,7.0.0)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2021-02-22 22:24:47.400
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2021-02-22 22:24:47.400
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-02-22 22:24:47.400
+!MESSAGE "TestNG" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2021-02-22 22:24:47.400
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.400
+!MESSAGE Software being installed: TestNG 7.3.0.202008060412 (org.testng.eclipse.feature.group 7.3.0.202008060412)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.400
+!MESSAGE Software currently installed: TestNG M2E (Maven) Integration (Optional) 6.14.3.201902250526 (org.testng.eclipse.maven.feature.feature.group 6.14.3.201902250526)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-02-22 22:24:47.400
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.400
+!MESSAGE TestNG 6.14.3.201902250526 (org.testng.eclipse.feature.jar 6.14.3.201902250526)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.400
+!MESSAGE TestNG 7.3.0.202008060412 (org.testng.eclipse.feature.jar 7.3.0.202008060412)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-02-22 22:24:47.400
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.400
+!MESSAGE From: TestNG 6.14.3.201902250526 (org.testng.eclipse.feature.group 6.14.3.201902250526)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.400
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.testng.eclipse.feature.jar [6.14.3.201902250526,6.14.3.201902250526]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-02-22 22:24:47.400
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.400
+!MESSAGE From: TestNG 7.3.0.202008060412 (org.testng.eclipse.feature.group 7.3.0.202008060412)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.400
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.testng.eclipse.feature.jar [7.3.0.202008060412,7.3.0.202008060412]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-02-22 22:24:47.400
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.400
+!MESSAGE From: TestNG M2E (Maven) Integration (Optional) 6.14.3.201902250526 (org.testng.eclipse.maven.feature.feature.group 6.14.3.201902250526)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.400
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.testng.eclipse.feature.group [6.14.3,7.0.0)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2021-02-22 22:24:47.409
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2021-02-22 22:24:47.409
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-02-22 22:24:47.409
+!MESSAGE "TestNG" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2021-02-22 22:24:47.409
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.409
+!MESSAGE Software being installed: TestNG 7.3.0.202008060412 (org.testng.eclipse.feature.group 7.3.0.202008060412)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.409
+!MESSAGE Software currently installed: TestNG M2E (Maven) Integration (Optional) 6.14.3.201902250526 (org.testng.eclipse.maven.feature.feature.group 6.14.3.201902250526)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-02-22 22:24:47.410
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.410
+!MESSAGE TestNG 6.14.3.201902250526 (org.testng.eclipse.feature.jar 6.14.3.201902250526)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.410
+!MESSAGE TestNG 7.3.0.202008060412 (org.testng.eclipse.feature.jar 7.3.0.202008060412)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-02-22 22:24:47.410
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.410
+!MESSAGE From: TestNG 6.14.3.201902250526 (org.testng.eclipse.feature.group 6.14.3.201902250526)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.410
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.testng.eclipse.feature.jar [6.14.3.201902250526,6.14.3.201902250526]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-02-22 22:24:47.410
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.410
+!MESSAGE From: TestNG 7.3.0.202008060412 (org.testng.eclipse.feature.group 7.3.0.202008060412)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.410
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.testng.eclipse.feature.jar [7.3.0.202008060412,7.3.0.202008060412]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-02-22 22:24:47.410
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.410
+!MESSAGE From: TestNG M2E (Maven) Integration (Optional) 6.14.3.201902250526 (org.testng.eclipse.maven.feature.feature.group 6.14.3.201902250526)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-02-22 22:24:47.410
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.testng.eclipse.feature.group [6.14.3,7.0.0)
+!SESSION 2021-02-22 22:29:09.521 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_271
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-02-22 22:29:45.770
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Anjali'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-02-23 20:35:07.970 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_271
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-02-23 20:35:23.256
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Anjali'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-02-23 21:13:29.212
+!MESSAGE No repository found at http://beust.com/eclipse.
+
+!ENTRY org.testng.eclipse 1 0 2021-02-23 21:41:36.760
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\TestNGProject\bin C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 55959 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-335883918\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\TestNGProject\bin:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 55959 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-335883918\testng-customsuite.xml
+
+!ENTRY org.eclipse.ui 4 0 2021-02-23 21:41:51.443
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4595)
+	at org.eclipse.swt.SWT.error(SWT.java:4510)
+	at org.eclipse.swt.SWT.error(SWT.java:4481)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:451)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:350)
+	at org.eclipse.swt.widgets.Composite.getChildren(Composite.java:469)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceDropAdapter.lambda$0(MarketplaceDropAdapter.java:136)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3919)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3550)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:563)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:151)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:595)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1501)
+
+!ENTRY org.testng.eclipse 1 0 2021-02-23 21:48:50.470
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\TestNGProject\bin C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 56434 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--1255977168\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\TestNGProject\bin:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 56434 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--1255977168\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-02-23 21:51:41.984
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\TestNGProject\bin C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 56545 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-2031558809\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\TestNGProject\bin:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 56545 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-2031558809\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-02-23 21:55:32.215
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\TestNGProject\bin C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 56690 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-338384524\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\TestNGProject\bin:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 56690 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-338384524\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-02-23 21:55:59.187
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\TestNGProject\bin C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 56705 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--1083415904\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\TestNGProject\bin:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 56705 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--1083415904\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-02-23 21:59:11.381
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\TestNGProject\bin C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 56830 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--1938283632\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\TestNGProject\bin:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 56830 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--1938283632\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-02-23 22:02:30.327
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\TestNGProject\bin C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 56953 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--692761142\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\TestNGProject\bin:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 56953 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--692761142\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-02-23 22:08:59.708
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\TestNGProject\bin C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 57208 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-1525672536\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\TestNGProject\bin:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 57208 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-1525672536\testng-customsuite.xml
+
+!ENTRY org.eclipse.ui 4 0 2021-02-23 22:10:14.585
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4595)
+	at org.eclipse.swt.SWT.error(SWT.java:4510)
+	at org.eclipse.swt.SWT.error(SWT.java:4481)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:451)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:350)
+	at org.eclipse.swt.widgets.Composite.getChildren(Composite.java:469)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceDropAdapter.lambda$0(MarketplaceDropAdapter.java:136)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3919)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3550)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:563)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:151)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:595)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1501)
+
+!ENTRY org.testng.eclipse 1 0 2021-02-23 22:12:29.927
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\TestNGProject\bin C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 57381 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-1669274177\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\TestNGProject\bin:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 57381 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-1669274177\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-02-23 22:16:41.865
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\TestNGProject\bin C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 57546 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-1946645841\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\TestNGProject\bin:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 57546 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-1946645841\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-02-23 22:17:42.191
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\TestNGProject\bin C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 57587 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--2139894821\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\TestNGProject\bin:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 57587 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--2139894821\testng-customsuite.xml
+
+!ENTRY org.eclipse.ui 4 0 2021-02-23 22:20:00.568
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4595)
+	at org.eclipse.swt.SWT.error(SWT.java:4510)
+	at org.eclipse.swt.SWT.error(SWT.java:4481)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:451)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:350)
+	at org.eclipse.swt.widgets.Composite.getChildren(Composite.java:469)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceDropAdapter.lambda$0(MarketplaceDropAdapter.java:136)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3919)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3550)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:563)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:151)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:595)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1501)
+
+!ENTRY org.testng.eclipse 1 0 2021-02-23 22:25:05.694
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\TestNGProject\bin C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 57876 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-774986393\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\TestNGProject\bin:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 57876 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-774986393\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-02-23 22:27:30.194
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\TestNGProject\bin C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 57967 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-486472335\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\TestNGProject\bin:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 57967 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-486472335\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-02-23 22:28:55.388
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\TestNGProject\bin C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 58029 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--1799831512\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\TestNGProject\bin:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 58029 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--1799831512\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-02-23 22:30:31.604
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\TestNGProject\bin C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 58095 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Automation Selenium\TestNGProject\testng.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\TestNGProject\bin:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 58095 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Automation Selenium\TestNGProject\testng.xml
+!SESSION 2021-02-24 20:42:22.350 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_271
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-02-24 20:44:42.368
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Anjali'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-02-24 21:07:20.953
+!MESSAGE No repository found at http://beust.com/eclipse.
+
+!ENTRY org.testng.eclipse 4 0 2021-02-24 21:54:35.129
+!MESSAGE <enabledWhen> element is required. Disabling org.testng.eclipse.codemining.testngProvider
+
+!ENTRY org.testng.eclipse 1 0 2021-02-24 21:58:35.788
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\TestNGProject\bin C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 62568 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Automation Selenium\TestNGProject\Regression.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\TestNGProject\bin:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 62568 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Automation Selenium\TestNGProject\Regression.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-02-24 22:00:40.253
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\TestNGProject\bin C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 62639 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Automation Selenium\TestNGProject\Regression.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\TestNGProject\bin:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 62639 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Automation Selenium\TestNGProject\Regression.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-02-24 22:12:41.030
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\TestNGProject\bin C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63038 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Automation Selenium\TestNGProject\Regression.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\TestNGProject\bin:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 63038 -protocol json -d C:\Automation Selenium\TestNGProject\test-output C:\Automation Selenium\TestNGProject\Regression.xml
+
+!ENTRY org.eclipse.jdt.debug 2 0 2021-02-24 22:12:41.855
+!MESSAGE Unable to find location of java.lang.Thread.setName() in debuggee JVM, for type java.lang.Thread
+!SESSION 2021-03-01 20:44:34.349 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_271
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-03-01 20:45:17.720
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Anjali'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2021-03-01 21:03:20.214
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51138 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-1860483988\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 51138 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-1860483988\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-03-01 21:04:32.280
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51186 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--883652437\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 51186 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--883652437\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-03-01 21:15:23.147
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51804 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-531433237\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 51804 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-531433237\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-03-01 21:17:15.278
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51946 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-2094603432\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 51946 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-2094603432\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-03-01 21:18:37.681
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52054 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--1765842794\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 52054 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--1765842794\testng-customsuite.xml
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-03-01 21:27:15.018
+!MESSAGE No repository found at http://beust.com/eclipse.
+
+!ENTRY org.testng.eclipse 1 0 2021-03-01 21:29:29.287
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52923 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--1498552343\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 52923 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--1498552343\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-03-01 21:29:43.559
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52960 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-10848241\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 52960 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-10848241\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-03-01 21:32:03.882
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53121 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--362526758\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 53121 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--362526758\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-03-01 21:32:30.348
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53166 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--479459776\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 53166 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--479459776\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-03-01 21:39:32.090
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53600 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--1661796435\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 53600 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--1661796435\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-03-01 21:40:48.879
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53705 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-888242654\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 53705 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-888242654\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-03-01 21:44:25.980
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53947 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-650001007\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 53947 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-650001007\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-03-01 21:45:32.300
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54041 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--21862517\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 54041 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--21862517\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-03-01 21:48:07.854
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54225 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-1269753220\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 54225 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-1269753220\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-03-01 21:52:29.674
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54514 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--877947433\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 54514 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--877947433\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-03-01 22:02:39.162
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 55377 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--728987789\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 55377 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--728987789\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-03-03 21:45:53.860
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59002 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--482362598\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 59002 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--482362598\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-03-03 21:49:00.813
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59140 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-403576725\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 59140 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-403576725\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-03-03 21:51:24.665
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59251 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-1979290392\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 59251 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-1979290392\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-03-03 22:05:52.758
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60096 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-380913766\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 60096 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-380913766\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-03-03 22:06:20.473
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60153 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--541668124\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 60153 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--541668124\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-03-03 22:08:26.440
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60258 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-2120561113\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 60258 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-2120561113\testng-customsuite.xml
+
+!ENTRY org.eclipse.jdt.debug 2 0 2021-03-03 22:08:26.906
+!MESSAGE Unable to find location of java.lang.Thread.setName() in debuggee JVM, for type java.lang.Thread
+
+!ENTRY org.testng.eclipse 1 0 2021-03-03 22:11:42.204
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60413 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-495875422\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 60413 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-495875422\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-03-03 22:25:47.750
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 61196 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--1971849010\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 61196 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--1971849010\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-03-03 22:28:43.940
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 61473 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-1065467721\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 61473 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-1065467721\testng-customsuite.xml
+!SESSION 2021-03-04 21:22:17.207 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_271
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-03-04 21:23:12.653
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Anjali'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2021-03-04 21:30:15.259
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea -javaagent:C:\eclipse\configuration\org.eclipse.osgi\448\0\.cp\jacocoagent.jar=includes=*,excludes=,exclclassloader=sun.reflect.DelegatingClassLoader,output=tcpclient,port=62690
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 62691 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-1536878501\testng-customsuite.xml
+java -ea -javaagent:C:\eclipse\configuration\org.eclipse.osgi\448\0\.cp\jacocoagent.jar=includes=*,excludes=,exclclassloader=sun.reflect.DelegatingClassLoader,output=tcpclient,port=62690 -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 62691 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-1536878501\testng-customsuite.xml
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-03-04 21:40:41.850
+!MESSAGE No repository found at http://beust.com/eclipse.
+
+!ENTRY org.testng.eclipse 1 0 2021-03-04 21:41:11.163
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63609 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-1718664624\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 63609 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse-1718664624\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-03-04 21:49:08.969
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar C:\Automation Selenium\SeleniumProject\bin C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64149 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--867728040\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\509\0\.cp\lib\testng-remote.jar:C:\Automation Selenium\SeleniumProject\bin:C:\Users\Anjali\Documents\automation\jarFiles\jarFiles\Selenium\selenium-server-standalone-3.141.59.jar:C:\eclipse\plugins\org.testng_7.3.0.r202008060316.jar:C:\eclipse\plugins\com.beust.jcommander_1.78.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64149 -protocol json -d C:\Automation Selenium\SeleniumProject\test-output C:\Users\Anjali\AppData\Local\Temp\testng-eclipse--867728040\testng-customsuite.xml

@@ -1,0 +1,33 @@
+package constructor;
+
+public class Car {
+	
+	//	object == instance variable
+	String model;
+	String type;
+	int speed;
+	
+	//Below is called Default Constructor
+	public Car() {			//Constructor looks like a method which has same name as of class and doesn't have any return type
+		
+		
+		
+	}
+	
+	//	Class variable
+	static int wheels;
+	
+	public void features() {
+		
+		System.out.println("Model="+model+", Type="+type+", Wheels= "+wheels+", Speed="+speed);
+	}
+
+}
+
+
+//Webdriver path; URL path; Screenshot path are to be stored in static variables as they will be same/constant through out
+
+//local, class & instance variables are there
+
+//if we use static keyword the it becomes class variable
+//to initialize the object we use constructor

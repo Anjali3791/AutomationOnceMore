@@ -1,0 +1,51 @@
+package stringClass;
+
+public class SampleStringClass {
+
+	public static void main(String[] args) { //Methods from a string class
+
+		String name = "AnanD";
+		System.out.println(name);
+		
+//		Function 1
+		System.out.println(name.length());
+		
+//		Function 2
+		System.out.println(name.charAt(4));
+		
+//		Function 3
+		System.out.println(name.toUpperCase());
+		
+//		Function 4
+		System.out.println(name.toLowerCase());
+		
+//		Function 5
+		System.out.println(name.trim());  //will delete the spaces from front and back of string
+		
+//		Function 6
+		System.out.println(name.replace("n", "1"));
+		
+//		Split
+		
+		String temp = "Hi may name is Anand";
+		String[] str = temp.split(" ");
+		
+		System.out.println(str.length);
+		
+		for(String s:str) {
+			
+			System.out.println(s);
+		}
+		
+//		Equals
+		System.out.println(name.equals(temp));
+		
+// 		Equal Ignore Case
+		System.out.println(name.equalsIgnoreCase(temp));  //it ignores the case sensitivity
+		
+//		Sub String
+		
+		
+	}
+
+}

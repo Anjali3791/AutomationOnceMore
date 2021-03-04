@@ -1,0 +1,25 @@
+package constructor;
+
+public class Car {
+	
+	//	object == instance
+	String model;
+	String type;
+	int speed;
+	
+	//	Class
+	static int wheels;
+	
+	public void features() {
+		
+		System.out.println("Model="+model+", Type="+type+", Wheels= "+wheels+", Speed="+speed);
+	}
+
+}
+
+
+//Webdriver path; URL path; Screenshot path are to be stored in static variables as they will be same/constant through out
+
+//local, class & instance variables are there
+
+//if we use static keyword the it becomes class variable

@@ -1,0 +1,9 @@
+package conditionalStatements;
+
+public class MathameticalOperators {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

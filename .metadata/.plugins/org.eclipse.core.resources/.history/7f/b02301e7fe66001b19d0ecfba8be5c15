@@ -1,0 +1,16 @@
+package constructor;
+
+public class Car {
+	
+	String model;
+	String type;
+	int wheels;
+	int speed;
+	
+	
+	public void features() {
+		
+		System.out.println("Model=Maruti, Type=Petrol, Wheels= 4, Speed=120");
+	}
+
+}

@@ -1,0 +1,15 @@
+package constructor;
+
+public class CarUser {
+
+	public static void main(String[] args) {
+		
+		Car car1 = new Car();
+		
+		car1.model= "Maruti";
+		car1.speed= 120;
+		car1.type= "Petrol";
+		car1.wheels= "4";
+	}
+
+}
